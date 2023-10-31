@@ -17,7 +17,7 @@ def encode(password):
 
 
 def decode():
-    pass
+    print("hi")
 
 
 def main():
